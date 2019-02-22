@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: AP Spring 2019
+description: Sharif University Of Technology MS faculty 
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
