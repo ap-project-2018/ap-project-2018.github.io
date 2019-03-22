@@ -7,3 +7,11 @@ For questions/concerns/bug reports regarding the project contact [AmirHosein Nad
 We encourage the use of the hypothes.is extension to annote comments and discuss these notes inline.
 
 ### Project phase 1
+
+In this phase, you will begin designing the game interfaces and menus. The main goal of this phase is developing your proficiency in designing User Interface with JAVA Swing.
+
+Phase 1 documentation is available at [Sharif Course Ware](http://cw.sharif.edu).
+
+For submitting your work you should submit a zip file of your project on Quera.
+
+Deadline: April 12th
